@@ -1,0 +1,13 @@
+name: "Alex Hoppen"
+description: "Short posts about things I learn – mostly about the Swift compiler"
+meta_description: "Short posts about things I learn – mostly about the Swift compiler"
+
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'https://alexhoppen.github.io'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'https://alexhoppen.github.io'
+author:         'Alex Hoppen'
